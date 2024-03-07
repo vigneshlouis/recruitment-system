@@ -1,0 +1,24 @@
+.question{
+    height: 100vh;
+    border:1px solid black;
+   
+}
+.editor{ 
+   
+    height: 78vh;border:1px solid black;
+}
+.Header{
+    min-height:40px;
+    max-height: 60px;
+    background-color: aquamarine;
+}
+.lang{
+margin-top: 4px;
+}
+
+.btn{background-color: #F6F7C4;}
+.outputTerminal{
+    overflow: scroll;
+    height: 22vh;
+    border: 1px solid black;
+}

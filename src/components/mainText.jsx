@@ -12,7 +12,7 @@ const MainText=()=>
             </div>
              <div className="row" >
                 <Link to="/Registration">
-                <button className="btn btnstart">Get Started</button>
+                <button className="btn btnstart" style={{width:"200px"}}>Get Started</button>
                 </Link>
              </div>
             </div>
